@@ -1,4 +1,4 @@
-markdown_content = """# Hi there, I'm Samuel Mattos! 👋
+# Hi there, I'm Samuel Mattos! 👋
 
 I am an **Informatics Engineer & Backend Developer** with a strong track record of building robust, scalable distributed systems, crafting efficient APIs, and ensuring software quality. 
 
