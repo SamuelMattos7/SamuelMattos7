@@ -40,7 +40,7 @@ With deep expertise in the **Python ecosystem (Django & FastAPI)** and cloud inf
 
 ### 🤝 Connect with Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/samuel-mattos-acosta) 
+* 💼 [LinkedIn] (https://www.linkedin.com/in/samuel-mattos-acosta) 
 * 📧 Email: samueld.mattoss@gmail.com
 * 📍 Santiago, Chile
 
